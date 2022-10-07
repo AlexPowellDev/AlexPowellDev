@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexPowellDev
 - 👀 I’m interested in Coding, Games, Movies, Music and alot more!
-- 🌱 I’m currently learning Front-End web development
+- 🌱 I’m currently learning Front-End web development, incluiding HTML, CSS, JS and some C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: On here, for now.
 
