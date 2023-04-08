@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AlexPowellDev
 - 👀 I’m interested in Coding, Games, Movies, Music and alot more!
-- 🌱 I’m currently learning Front-End web development, incluiding HTML, CSS, JS and some C#
+- 🌱 I’m a Front-End web developer specializing in React.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: On here, for now.
+- 📫 How to reach me: On here, or contact me through my portfolio: alexpowelldev.com
 
 <!---
 AlexPowellDev/AlexPowellDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
